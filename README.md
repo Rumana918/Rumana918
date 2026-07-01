@@ -129,11 +129,22 @@
 </tr>
 </table>
 ---
-## 💻 Top Languages
+## 💻 Technical Skills
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rumana918&theme=tokyonight" width="400" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-92%25-38BDF8?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-88%25-60A5FA?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-82%25-FACC15?style=for-the-badge&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-80%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Node.js](https://img.shields.io/badge/Node.js-75%25-22C55E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-74%25-64748B?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-76%25-10B981?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-80%25-3B82F6?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-78%25-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Git](https://img.shields.io/badge/Git_&_GitHub-85%25-F97316?style=for-the-badge&logo=git&logoColor=white)
+![Deployment](https://img.shields.io/badge/Deployment-72%25-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-78%25-06B6D4?style=for-the-badge)
 
 ---
 <p align="center">
