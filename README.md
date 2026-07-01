@@ -26,16 +26,11 @@
 # Hi 👋, I'm Rumana Parven
 
 # Professional Profile
-Full Stack Developer (MERN) | Python | SQL
-
-I am a BCA Final Year student passionate about building modern, responsive, and scalable web applications. I enjoy transforming ideas into real-world solutions using the MERN stack and continuously expanding my knowledge of software development.
-
-**Core Areas of Focus:**
-* Data Analytics and Optimization
-* Machine Learning Concepts and Modeling
-* Python and Backend Development (Django)
-* Structured Query Language (SQL)
-* Advanced Data Visualization
+<p align="center">
+    👋 Hello! I'm a passionate Full-Stack Web Developer specializing in the MERN Stack, Python, and SQL. <br />
+    I love turning complex problems into beautiful, scalable, and efficient code. 
+    <br /><b>CODE. DEPLOY. IMPACT.</b>
+  </p>
 
 ---
 
