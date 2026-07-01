@@ -31,6 +31,17 @@
     I love turning complex problems into beautiful, scalable, and efficient code. 
     <br /><b>CODE. DEPLOY. IMPACT.</b>
   </p>
+  ---
+
+  ## 🎯 Core Areas of Focus
+  <p align="center">
+    🖥️ <b>Full-Stack Web Development</b> — Building robust, scalable, and responsive web applications using the MERN stack.<br />
+    🐍 <b>Backend & Automation</b> — Crafting efficient server-side logic, APIs, and automation scripts using Python and Node.js.<br />
+    📊 <b>Database Management</b> — Structuring, optimizing, and managing complex data architectures with SQL and MongoDB.<br />
+    🚀 <b>DevOps & Deployment</b> — Implementing seamless version control and deploying applications to impact users worldwide.
+  </p>
+
+  ---
 
 ---
 
