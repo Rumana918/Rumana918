@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="/baner.jpg" alt="Soumajit Sadhukhan Banner" width="100%">
+  <img src="/baner.png" alt="Rumana Parven Banner" width="100%">
 </p>
 
 
