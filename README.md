@@ -132,18 +132,18 @@
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumajit-Sadhukhan&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rumana918&theme=tokyonight" width="400" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumajit-Sadhukhan&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumana918&theme=tokyonight" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Soumajit-Sadhukhan/Soumajit-Sadhukhan/output/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rumana918/Rumana918/output/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
 </p>
 
 
