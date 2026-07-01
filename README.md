@@ -131,9 +131,8 @@
 
 ---
 
-### 💻 Technical Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumajit-Sadhukhan&layout=compact&langs_count=5&theme=default&custom_title=Core+Skills+%26+Competencies" alt="Skill Graph" />
+  <img src="https://streak-stats.demolab.com?user=Rumana918&theme=default&hide_border=true" />
 </p>
 
 
