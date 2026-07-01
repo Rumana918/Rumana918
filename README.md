@@ -31,6 +31,7 @@
     I love turning complex problems into beautiful, scalable, and efficient code. 
     <br /><b>CODE. DEPLOY. IMPACT.</b>
   </p>
+  
   ---
 
   <h2 align="left">Core Areas of Focus</h2>
