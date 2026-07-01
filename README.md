@@ -8,7 +8,8 @@
 <div align="center">
 
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2B547E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Rumana+Parven;Building+%E2%80%A2+Learning+%E2%80%A2+Deploying;MERN+Stack+%26+Python+Developer" alt="Typing Animation" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2B547E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rumana+Parven;Full+Stack+Web+Developer;Building+%E2%80%A2+Learning+%E2%80%A2+Deploying;MERN+Stack+%26+Python+Developer" alt="Typing Animation" />
+ </div>
 
   <br />
 
