@@ -116,21 +116,34 @@
 
 ---
 
-# ⚡ Currently Learning
+<h2 align="left">⚡ Currently Learning</h2>
 
-* **Machine Learning**
+<table>
+<tr>
+<td width="60%" valign="top">
 
-* **Data Visualization**
+<ul>
+  <li>Advanced React.js & State Management</li>
+  <li>Backend Architecture with Node.js & Express.js</li>
+  <li>RESTful API Development</li>
+  <li>Authentication & Authorization (JWT)</li>
+  <li>MongoDB Performance Optimization</li>
+  <li>Python for Backend Development</li>
+  <li>SQL Query Optimization & Database Design</li>
+  <li>Docker & Containerization</li>
+  <li>CI/CD & Deployment Workflows</li>
+  <li>Data Structures & Algorithms</li>
+</ul>
 
-* **Feature Engineering**
+</td>
 
-* **Model Deployment**
+<td width="40%" align="center">
 
-* **Django REST API**
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" alt="Learning Animation"/>
 
-* **FastAPI**
-
-* **Docker** 
+</td>
+</tr>
+</table>
 ---
 ## 💻 Top Languages
 
