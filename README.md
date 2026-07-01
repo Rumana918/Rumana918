@@ -129,59 +129,59 @@
 </tr>
 </table>
 ---
-<h2 align="left">💻 Technical Skills</h2>
+## 💻 Technical Skills Graph
 
-<table>
-  <tr>
-    <td width="160"><strong>HTML5</strong></td>
-    <td><progress value="92" max="100"></progress> 92%</td>
-  </tr>
-  <tr>
-    <td><strong>CSS3</strong></td>
-    <td><progress value="88" max="100"></progress> 88%</td>
-  </tr>
-  <tr>
-    <td><strong>JavaScript</strong></td>
-    <td><progress value="82" max="100"></progress> 82%</td>
-  </tr>
-  <tr>
-    <td><strong>React.js</strong></td>
-    <td><progress value="80" max="100"></progress> 80%</td>
-  </tr>
-  <tr>
-    <td><strong>Node.js</strong></td>
-    <td><progress value="75" max="100"></progress> 75%</td>
-  </tr>
-  <tr>
-    <td><strong>Express.js</strong></td>
-    <td><progress value="74" max="100"></progress> 74%</td>
-  </tr>
-  <tr>
-    <td><strong>MongoDB</strong></td>
-    <td><progress value="76" max="100"></progress> 76%</td>
-  </tr>
-  <tr>
-    <td><strong>MySQL</strong></td>
-    <td><progress value="80" max="100"></progress> 80%</td>
-  </tr>
-  <tr>
-    <td><strong>Python</strong></td>
-    <td><progress value="78" max="100"></progress> 78%</td>
-  </tr>
-  <tr>
-    <td><strong>Git & GitHub</strong></td>
-    <td><progress value="85" max="100"></progress> 85%</td>
-  </tr>
-  <tr>
-    <td><strong>Deployment</strong></td>
-    <td><progress value="72" max="100"></progress> 72%</td>
-  </tr>
-  <tr>
-    <td><strong>REST APIs</strong></td>
-    <td><progress value="78" max="100"></progress> 78%</td>
-  </tr>
-</table>
-
+  <!-- আপনার প্রোগ্রেস বার টেবিলটিকে এখানে একদম সেন্টারে এবং সুন্দরভাবে রিডিজাইন করা হয়েছে -->
+  <table align="center" style="margin: 0 auto; border-collapse: collapse;">
+    <tr>
+      <td width="150" align="left"><strong>HTML5</strong></td>
+      <td width="300"><progress value="92" max="100"></progress> <b>92%</b></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>CSS3</strong></td>
+      <td><progress value="88" max="100"></progress> <b>88%</b></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>JavaScript</strong></td>
+      <td><progress value="82" max="100"></progress> <b>82%</b></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>React.js</strong></td>
+      <td><progress value="80" max="100"></progress> <b>80%</b></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Node.js</strong></td>
+      <td><progress value="75" max="100"></progress> <b>75%</b></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Express.js</strong></td>
+      <td><progress value="74" max="100"></progress> <b>74%</b></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>MongoDB</strong></td>
+      <td><progress value="76" max="100"></progress> <b>76%</b></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>MySQL / SQL</strong></td>
+      <td><progress value="80" max="100"></progress> <b>80%</b></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Python</strong></td>
+      <td><progress value="78" max="100"></progress> <b>78%</b></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Git & GitHub</strong></td>
+      <td><progress value="85" max="100"></progress> <b>85%</b></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Deployment</strong></td>
+      <td><progress value="72" max="100"></progress> <b>72%</b></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>REST APIs</strong></td>
+      <td><progress value="78" max="100"></progress> <b>78%</b></td>
+    </tr>
+  </table>
 ---
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumana918&theme=tokyonight" width="100%" />
