@@ -131,62 +131,21 @@
 
 ---
 
-## 💻 Technical Skills Graph
-
-  
-  <table align="center" style="margin: 0 auto; border-collapse: collapse;">
-    <tr>
-      <td width="150" align="left"><strong>HTML5</strong></td>
-      <td width="300"><progress value="92" max="100"></progress> <b>92%</b></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>CSS3</strong></td>
-      <td><progress value="88" max="100"></progress> <b>88%</b></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>JavaScript</strong></td>
-      <td><progress value="82" max="100"></progress> <b>82%</b></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>React.js</strong></td>
-      <td><progress value="80" max="100"></progress> <b>80%</b></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Node.js</strong></td>
-      <td><progress value="75" max="100"></progress> <b>75%</b></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Express.js</strong></td>
-      <td><progress value="74" max="100"></progress> <b>74%</b></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>MongoDB</strong></td>
-      <td><progress value="76" max="100"></progress> <b>76%</b></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>MySQL / SQL</strong></td>
-      <td><progress value="80" max="100"></progress> <b>80%</b></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Python</strong></td>
-      <td><progress value="78" max="100"></progress> <b>78%</b></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Git & GitHub</strong></td>
-      <td><progress value="85" max="100"></progress> <b>85%</b></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Deployment</strong></td>
-      <td><progress value="72" max="100"></progress> <b>72%</b></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>REST APIs</strong></td>
-      <td><progress value="78" max="100"></progress> <b>78%</b></td>
-    </tr>
-  </table>
----
+### 💻 Technical Skills
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumana918&theme=tokyonight" width="100%" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010" alt="JS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101010" alt="React" />
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010" alt="Node" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" alt="MySQL" />
+  <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010" alt="Git" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010" alt="API" />
 </p>
 
 ---
