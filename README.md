@@ -51,6 +51,7 @@
   <li>Continuous Learning & Problem Solving</li>
 </ul>
 
+---
 
 
 # 💻 Tech Stack
@@ -63,7 +64,7 @@
   </a>
 </p>
 
----
+
 
   
 
