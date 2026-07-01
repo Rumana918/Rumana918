@@ -128,10 +128,12 @@
 </td>
 </tr>
 </table>
+
 ---
+
 ## 💻 Technical Skills Graph
 
-  <!-- আপনার প্রোগ্রেস বার টেবিলটিকে এখানে একদম সেন্টারে এবং সুন্দরভাবে রিডিজাইন করা হয়েছে -->
+  
   <table align="center" style="margin: 0 auto; border-collapse: collapse;">
     <tr>
       <td width="150" align="left"><strong>HTML5</strong></td>
