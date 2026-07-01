@@ -51,6 +51,20 @@
   <li>Continuous Learning & Problem Solving</li>
 </ul>
 
+
+
+# 💻 Tech Stack
+
+<p align="center">
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,express,mongodb,mysql,python,git,github,vscode,bootstrap,tailwind,postman,vercel" />
+  </a>
+</p>
+
+---
+
   
 
 ---
@@ -72,17 +86,7 @@
 
 ---
 
-# 💻 Tech Stack
 
-<p align="center">
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,tailwind,react,nodejs,mysql,postgresql,mongodb,git,github,vscode,docker,c" />
-  </a>
-</p>
-
----
 
 # 📊 Data Science Stack
 
