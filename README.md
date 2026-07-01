@@ -60,12 +60,9 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,express,mongodb,mysql,python,git,github,vscode,bootstrap,tailwind,postman,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,bootstrap,tailwind,postman,vercel" />
   </a>
 </p>
-
-
-
   
 
 ---
@@ -73,15 +70,21 @@
 # About Me
 
 <p align="left">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="50%" align="right" style="margin-left: 77px;" />
-  A dedicated Python Developer and aspiring Data Scientist with a strong passion for building real-world applications and exploring the open-source ecosystem. I focus on transforming data into structured insights through analytics and machine learning methodologies.
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="50%" align="right" style="margin-left: 20px;" />
+  I'm <strong>Rumana Parven</strong>, a BCA (Hons.) Final Year student and a passionate Full Stack Developer specializing in the MERN stack. I enjoy building modern, responsive, and scalable web applications while continuously expanding my knowledge of backend development, deployment, and software engineering. I believe in writing clean, maintainable code and creating practical solutions that deliver real value.
 </p>
 
 ### Areas of Activity & Interest
-* Academic and practical learning in Data Science and Machine Learning
-* Core Python development and open-source contribution
-* Data Analytics and performance benchmarking
-* Engineering functional, end-to-end projects
+
+- Full Stack Web Development (MERN)
+- Frontend Development with React.js
+- Backend Development using Node.js & Express.js
+- RESTful API Development
+- Database Design & Management (MongoDB & MySQL)
+- Python Programming & SQL
+- Version Control with Git & GitHub
+- Deployment using Vercel & Netlify
+- Exploring Open Source and Modern Web Technologies
 
 <br clear="right"/>
 
