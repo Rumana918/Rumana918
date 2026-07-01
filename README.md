@@ -129,22 +129,58 @@
 </tr>
 </table>
 ---
-## 💻 Technical Skills
+<h2 align="left">💻 Technical Skills</h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-92%25-38BDF8?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-88%25-60A5FA?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-82%25-FACC15?style=for-the-badge&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-80%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-![Node.js](https://img.shields.io/badge/Node.js-75%25-22C55E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-74%25-64748B?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-76%25-10B981?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-80%25-3B82F6?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-78%25-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Git](https://img.shields.io/badge/Git_&_GitHub-85%25-F97316?style=for-the-badge&logo=git&logoColor=white)
-![Deployment](https://img.shields.io/badge/Deployment-72%25-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-78%25-06B6D4?style=for-the-badge)
+<table>
+  <tr>
+    <td width="160"><strong>HTML5</strong></td>
+    <td><progress value="92" max="100"></progress> 92%</td>
+  </tr>
+  <tr>
+    <td><strong>CSS3</strong></td>
+    <td><progress value="88" max="100"></progress> 88%</td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td><progress value="82" max="100"></progress> 82%</td>
+  </tr>
+  <tr>
+    <td><strong>React.js</strong></td>
+    <td><progress value="80" max="100"></progress> 80%</td>
+  </tr>
+  <tr>
+    <td><strong>Node.js</strong></td>
+    <td><progress value="75" max="100"></progress> 75%</td>
+  </tr>
+  <tr>
+    <td><strong>Express.js</strong></td>
+    <td><progress value="74" max="100"></progress> 74%</td>
+  </tr>
+  <tr>
+    <td><strong>MongoDB</strong></td>
+    <td><progress value="76" max="100"></progress> 76%</td>
+  </tr>
+  <tr>
+    <td><strong>MySQL</strong></td>
+    <td><progress value="80" max="100"></progress> 80%</td>
+  </tr>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td><progress value="78" max="100"></progress> 78%</td>
+  </tr>
+  <tr>
+    <td><strong>Git & GitHub</strong></td>
+    <td><progress value="85" max="100"></progress> 85%</td>
+  </tr>
+  <tr>
+    <td><strong>Deployment</strong></td>
+    <td><progress value="72" max="100"></progress> 72%</td>
+  </tr>
+  <tr>
+    <td><strong>REST APIs</strong></td>
+    <td><progress value="78" max="100"></progress> 78%</td>
+  </tr>
+</table>
 
 ---
 <p align="center">
