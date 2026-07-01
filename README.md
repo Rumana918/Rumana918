@@ -41,7 +41,7 @@
   <li>Frontend Development with React.js</li>
   <li>Backend Development with Node.js & Express.js</li>
   <li>RESTful API Development</li>
-  <li>Database Design & Management (MongoDB & MySQL)</li>
+  <li>Database Design & Management (MongoDB & MySQL)</li
   <li>Python Programming</li>
   <li>SQL & Database Queries</li>
   <li>Authentication & Authorization</li>
@@ -70,7 +70,7 @@
 # About Me
 
 <p align="left">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="50%" align="right" style="margin-left: 20px;" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="50%" align="right" style="margin-left: 20px;" />
   I'm <strong>Rumana Parven</strong>, a BCA (Hons.) Final Year student and a passionate Full Stack Developer specializing in the MERN stack. I enjoy building modern, responsive, and scalable web applications while continuously expanding my knowledge of backend development, deployment, and software engineering. I believe in writing clean, maintainable code and creating practical solutions that deliver real value.
 </p>
 
