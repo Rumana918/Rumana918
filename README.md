@@ -17,11 +17,12 @@
 
 ---
 
-# 👋 Hello, I'm Soumajit
+# Hi 👋, I'm Rumana Parven
 
 # Professional Profile
+Full Stack Developer (MERN) | Python | SQL
 
-Passionate Data Science and Machine Learning Enthusiast with a strong focus on engineering intelligent applications and solving complex, real-world challenges through data-driven approaches.
+I am a BCA Final Year student passionate about building modern, responsive, and scalable web applications. I enjoy transforming ideas into real-world solutions using the MERN stack and continuously expanding my knowledge of software development.
 
 **Core Areas of Focus:**
 * Data Analytics and Optimization
