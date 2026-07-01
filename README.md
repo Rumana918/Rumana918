@@ -1,103 +1,121 @@
-# Hi 👋, I'm Rumana Parven
+<div align="center">
 
-### Full Stack Developer (MERN) | Python | SQL
+<p align="center">
+  <img src="/baner.jpg" alt="Soumajit Sadhukhan Banner" width="100%">
+</p>
 
-I am a BCA Final Year student passionate about building modern, responsive, and scalable web applications. I enjoy transforming ideas into real-world solutions using the MERN stack and continuously expanding my knowledge of software development.
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=800&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer;Django+Developer;SQL+%7C+Pandas+%7C+NumPy;Open+Source+Learner"/>
 
-## 🚀 About Me
+<br>
 
-* 🎓 BCA (Hons.) Final Year Student
-* 💻 Full Stack Web Developer (MERN)
-* 🐍 Working with Python and SQL
-* 🌱 Currently improving my backend and deployment skills
-* 🔍 Interested in Web Development, Databases, and Software Engineering
-* ⚡ Always learning and building new projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=60&section=header" width="100%" />
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Bootstrap
-* Tailwind CSS
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* MongoDB
-* MySQL
-* SQL
-
-### Programming Languages
-
-* JavaScript
-* Python
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Vercel
-* Netlify
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 👋 Hello, I'm Soumajit
 
-### LearnSphere
+# Professional Profile
 
-An online learning platform built using modern web technologies.
+Passionate Data Science and Machine Learning Enthusiast with a strong focus on engineering intelligent applications and solving complex, real-world challenges through data-driven approaches.
 
-**Features**
-
-* Responsive UI
-* Authentication System
-* Course Management
-* Interactive Learning Experience
-
-### BudgetPro
-
-A budget management web application that helps users track expenses and manage finances efficiently.
-
-**Tech Stack**
-
-* React.js
-* Node.js
-* Express.js
-* MongoDB
+**Core Areas of Focus:**
+* Data Analytics and Optimization
+* Machine Learning Concepts and Modeling
+* Python and Backend Development (Django)
+* Structured Query Language (SQL)
+* Advanced Data Visualization
 
 ---
 
-## 📈 GitHub Goals
+# About Me
 
-* Build impactful full-stack projects
-* Strengthen backend architecture skills
-* Contribute to open-source projects
-* Learn advanced system design concepts
+<p align="left">
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="50%" align="right" style="margin-left: 77px;" />
+  A dedicated Python Developer and aspiring Data Scientist with a strong passion for building real-world applications and exploring the open-source ecosystem. I focus on transforming data into structured insights through analytics and machine learning methodologies.
+</p>
 
----
+### Areas of Activity & Interest
+* Academic and practical learning in Data Science and Machine Learning
+* Core Python development and open-source contribution
+* Data Analytics and performance benchmarking
+* Engineering functional, end-to-end projects
 
-## 📫 Connect With Me
-
-📧 Email: [rumanaparven18@gmail.com](mailto:rumanaparven18@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/rumana-parven-3644452b2/
-
-🐙 GitHub: https://github.com/Rumana918
+<br clear="right"/>
 
 ---
 
-### "Code. Learn. Build. Improve."
+# 💻 Tech Stack
+
+<p align="center">
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,tailwind,react,nodejs,mysql,postgresql,mongodb,git,github,vscode,docker,c" />
+  </a>
+</p>
+
+---
+
+# 📊 Data Science Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+</p>
+
+---
+
+# ⚡ Currently Learning
+
+* **Machine Learning**
+
+* **Data Visualization**
+
+* **Feature Engineering**
+
+* **Model Deployment**
+
+* **Django REST API**
+
+* **FastAPI**
+
+* **Docker** 
+---
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumajit-Sadhukhan&theme=tokyonight" width="400" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumajit-Sadhukhan&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Soumajit-Sadhukhan/Soumajit-Sadhukhan/output/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+</p>
+
+
