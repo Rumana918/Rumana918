@@ -133,13 +133,8 @@
 
 ### 💻 Technical Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumana918&layout=donut&theme=neutral&hide_border=true" alt="Top Languages Graph" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumajit-Sadhukhan&layout=compact&langs_count=5&theme=default&custom_title=Core+Skills+%26+Competencies" alt="Skill Graph" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rumana918/Rumana918/output/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
-</p>
 
 
