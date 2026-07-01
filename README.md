@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="/baner.png" alt="Rumana Parven Banner" width="100%">
+  <img src="/banner.png" alt="Rumana Parven Banner" width="100%">
 </p>
 
 
