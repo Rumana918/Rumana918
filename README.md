@@ -33,15 +33,24 @@
   </p>
   ---
 
-  ## 🎯 Core Areas of Focus
-  <p align="center">
-    🖥️ <b>Full-Stack Web Development</b> — Building robust, scalable, and responsive web applications using the MERN stack.<br />
-    🐍 <b>Backend & Automation</b> — Crafting efficient server-side logic, APIs, and automation scripts using Python and Node.js.<br />
-    📊 <b>Database Management</b> — Structuring, optimizing, and managing complex data architectures with SQL and MongoDB.<br />
-    🚀 <b>DevOps & Deployment</b> — Implementing seamless version control and deploying applications to impact users worldwide.
-  </p>
+  <h2 align="left">Core Areas of Focus</h2>
 
-  ---
+<ul>
+  <li>Full Stack Web Development (MERN)</li>
+  <li>Frontend Development with React.js</li>
+  <li>Backend Development with Node.js & Express.js</li>
+  <li>RESTful API Development</li>
+  <li>Database Design & Management (MongoDB & MySQL)</li>
+  <li>Python Programming</li>
+  <li>SQL & Database Queries</li>
+  <li>Authentication & Authorization</li>
+  <li>Responsive UI Development</li>
+  <li>Version Control with Git & GitHub</li>
+  <li>Deployment & Hosting (Vercel, Netlify)</li>
+  <li>Continuous Learning & Problem Solving</li>
+</ul>
+
+  
 
 ---
 
